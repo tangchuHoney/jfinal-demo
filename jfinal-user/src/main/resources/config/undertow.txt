@@ -1,0 +1,5 @@
+undertow.devMode=true
+# 端口
+undertow.port=8080
+# host
+undertow.host=127.0.0.1

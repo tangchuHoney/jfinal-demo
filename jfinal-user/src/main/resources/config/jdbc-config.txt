@@ -1,0 +1,4 @@
+mysql.jdbcUrl = jdbc:mysql://127.0.0.1:3306/db_jfinal_demo?characterEncoding=utf8&useSSL=false&zeroDateTimeBehavior=convertToNull&tinyInt1isBit=false
+mysql.user = root
+mysql.password = root
+jfinal.devMode = true
